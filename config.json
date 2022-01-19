@@ -1,0 +1,22 @@
+{
+    "parameters":
+    {
+        "locl_server": "true" ,
+        "local_uri": "mysql://root:@localhost/codehunter",
+        "production_uri" : "mysql://root:@localhost/codehunter",
+        "fb_url" : "https://facebook.com/codingthunder",
+        "tw_url" : "https://twitter.com/codingthunder",
+        "gh_url" : "https://github.com/codingthunder",
+        "blog_name" : "My Blog",
+        "gmail_user" : "email_address",
+        "gmail_password" : "emailpassword",
+        "about_text" : "my name is rishav and i am a good boy i am tewnty years old",
+        "num_of_pages" : 3,
+        "log_img" : "logpic.jpg",
+        "admin_name" : "rishav",
+        "admin_password" : "tilak",
+        "upload_location" : "E:\\python with flask coding\\static\\img"
+    }
+
+
+}
